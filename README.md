@@ -2,4 +2,4 @@
 
 Criando o primeiro Repositório - Aula Git e GitHub - Professor Guanabara
 Aprendendo a fazer repositório com o Github Desktop, muito mais fácil!
-Essa linha eu adicionei diretamente no site, conforme aula
+Essa linha eu adicionei **diretamente no site**, *conforme aula*
